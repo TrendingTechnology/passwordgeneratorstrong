@@ -9,4 +9,4 @@ Please share your feedback - let me know if this tool is useful for you, or if y
 
 Built with React, August 2019.
 
-https://pwgen.joelb.dev/
+https://passwordgeneratorstrong.com/
